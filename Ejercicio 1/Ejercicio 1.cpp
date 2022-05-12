@@ -2,7 +2,6 @@
 using namespace std;
 void calificativo();
 //hola mundo 
-
 void notificar(char Calificativo)
 {
     char sn;
@@ -21,7 +20,6 @@ void notificar(char Calificativo)
     }
 
 }
-//hola
 
 void calificativo()
 {
