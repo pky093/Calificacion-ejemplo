@@ -1,11 +1,12 @@
 #include<iostream>
 using namespace std;
 void calificativo();
+//hola mundo 
 void notificar(char Calificativo)
 {
     char sn;
     switch (Calificativo)
-    {
+    {  
     case'A':case'a':cout << "Bueno\n"; break;
     case'B':case'b':cout << "Regular\n"; break;
     case'C':case'c':cout << "Malo\n"; break;
