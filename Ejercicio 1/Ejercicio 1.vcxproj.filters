@@ -18,7 +18,7 @@
     <ClCompile Include="Ejercicio 1.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
+    <ClCompile Include="Ejemplo2.0.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
   </ItemGroup>
